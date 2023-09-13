@@ -23,13 +23,26 @@
 #MenuInformacional {
     background-color: #F9F9F9;
     margin-top: 35px;
-    margin-left: 75px;
+    margin-left: 300px;
     font-size: 20px;
     display: grid;
     grid-auto-flow: column;
     columns: auto;
     align-items: center;
 }
+#TextoInformação {
+    margin-left: 300px;
+    display: grid;
+    grid-auto-flow: column;
+    columns: auto;
+}
+#TextoInformação2 {
+    margin-left: 30px;
+}
+#TextoInformação3 {
+    margin-right: 170px;
+}
+
 
 
 #MenuInformacional2 {
