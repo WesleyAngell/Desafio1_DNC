@@ -2,7 +2,7 @@
 
 Link do site disponibilizado
 
-
+https://exquisite-bonbon-43c1fc.netlify.app/
 
 Link da planilha de registro da informação 
 
